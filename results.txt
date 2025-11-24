@@ -1,5 +1,5 @@
-Computer Name: DESKTOP-DKA7G06
-Date of Test: 2025-11-24 13:31:13
-Bubble Sort Time: 7.034316 seconds
-Quick Sort Time: 0.011266 seconds
+Computer Name: le-computer
+Date of Test: 2025-11-24 13:50:28
+Bubble Sort Time: 5.600104 seconds
+Quick Sort Time: 0.012386 seconds
 
